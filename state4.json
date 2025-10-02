@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "school-golovbukh",
+      "value": "4erlo49f3b0e2en88eki3tnu2dqd0fut",
+      "domain": "devschool.buhplatforma.com.ua",
+      "path": "/",
+      "expires": 1747896589.798276,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
